@@ -1,6 +1,10 @@
 # elections-data-jam: based on the houston data visualization meetup 8.19.2016
 
+## Primary Document is "Data Jam Exploration-And-Map.ipynb"
 
+#### by Justin Gosses & Yulan I. Linn - August 2016
+
+---------------------------------------------------------------------------------------
 
    Copyright 2016
 
