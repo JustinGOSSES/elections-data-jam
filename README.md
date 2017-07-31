@@ -1,6 +1,7 @@
 # elections-data-jam: based on the houston data visualization meetup 8.19.2016
 
 ## Primary Final Document is "Data Jam Exploration-And-Map.ipynb"
+<a href="https://nbviewer.jupyter.org/github/JustinGOSSES/elections-data-jam/blob/master/Data%20Jam%20Exploration-And-Map.ipynb">Link</a> to live notebook via nbviewer
 
 #### by Justin Gosses & Yulan I. Linn - August 2016
 
